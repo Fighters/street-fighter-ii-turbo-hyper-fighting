@@ -1,0 +1,228 @@
+{
+	"romans": {
+		"regions": [
+			{ 
+				"region": "default",
+				"roman": "Street Fighter II Turbo: Hyper Fighting"
+			},
+			{
+				"region": "japan",
+				"roman": "Street Fighter II' Turbo",
+				"original": "ストリートファイターII ダッシュターボ"
+			}
+		],
+		"also-known-as": [
+			"hf", "sf2 turbo", "sf2hf", "hyper fighting"
+		]
+	},
+	"platforms": [
+		{
+			"platform": "Arcade",
+			"regions": [
+				{
+					"region": "Japan",
+					"roman": "Street Fighter II' Turbo",
+					"original": "ストリートファイターII ダッシュターボ",
+					"releaseDate": "12-09-1992",
+					"developer": "Capcom",
+					"publisher": "Capcom"
+				},
+				{
+					"region": "United States",
+					"roman": "Street Fighter II Turbo: Hyper Fighting",
+					"releaseDate": "12-09-1992",
+					"developer": "Capcom",
+					"publisher": "Capcom"
+				}
+			]
+		},
+		{
+			"platform": "Super Nintendo",
+			"regions": [
+				{
+					"region": "Japan",
+					"roman": "Street Fighter II Turbo",
+					"original": "ストリートファイターII プラス",
+					"releaseDate": "07-11-1993",
+					"developer": "Capcom",
+					"publisher": "Capcom",
+					"coverFront": "snes-jp-front.webp"
+				},
+				{
+					"region": "United States",
+					"roman": "Street Fighter II Turbo",
+					"releaseDate": "08-1993",
+					"developer": "Capcom",
+					"publisher": "Capcom",
+					"coverFront": "snes-us-front.webp"
+				},
+				{
+					"region": "Europe",
+					"roman": "Street Fighter II Turbo",
+					"releaseDate": "08-1993",
+					"developer": "Capcom",
+					"publisher": "Sega",
+					"coverFront": "snes-eu-front.webp"
+				}
+			]
+		}
+	],
+	"characters": [
+		{ 
+			"regions": [
+				{
+					"region": "default",
+					"roman": "Ryu"
+				},
+				{
+					"region": "japan",
+					"roman": "Ryu",
+					"original": "リュウ"
+				}
+			]
+		},
+		{ 
+			"regions": [
+				{
+					"region": "default",
+					"roman": "Ken Masters"
+				},
+				{
+					"region": "japan",
+					"roman": "Ken Masters",
+					"original": "ケン・マスターズ"
+				}
+			]
+		},
+		{ 
+			"regions": [
+				{
+					"region": "default",
+					"roman": "Chun-Li"
+				},
+				{
+					"region": "japan",
+					"roman": "Chun-Li",
+					"original": "チュンリー"
+				}
+			]
+		},
+		{ 
+			"regions": [
+				{
+					"region": "default",
+					"roman": "Dhalsim"
+				},
+				{
+					"region": "japan",
+					"roman": "Dhalsim",
+					"original": "ダルシム"
+				}
+			]
+		},
+		{ 
+			"regions": [
+				{
+					"region": "default",
+					"roman": "M. Bison"
+				},
+				{
+					"region": "japan",
+					"roman": "Vega",
+					"original": "ベガ"
+				}
+			]
+		},
+        { 
+            "regions": [
+                {
+                    "region": "default",
+                    "roman": "Vega"
+                },
+                {
+                    "region": "japan",
+                    "roman": "Balrog",
+                    "original": "バルログ"
+                }
+            ]
+        },
+        { 
+            "regions": [
+                {
+                    "region": "default",
+                    "roman": "Zangief"
+                },
+                {
+                    "region": "japan",
+                    "roman": "Zangief",
+                    "original": "ザンギエフ"
+                }
+            ]
+        },
+        { 
+            "regions": [
+                {
+                    "region": "default",
+                    "roman": "Guile"
+                },
+                {
+                    "region": "japan",
+                    "roman": "Guile",
+                    "original": "ガイル"
+                }
+            ]
+        },
+        { 
+            "regions": [
+                {
+                    "region": "default",
+                    "roman": "Balrog"
+                },
+                {
+                    "region": "japan",
+                    "roman": "M. Bison",
+                    "original": "マイク・バイソン"
+                }
+            ]
+        },        
+        { 
+            "regions": [
+                {
+                    "region": "default",
+                    "roman": "Blanka"
+                },
+                {
+                    "region": "japan",
+                    "roman": "Blanka",
+                    "original": "ブランカ"
+                }
+            ]
+        },        
+        { 
+            "regions": [
+                {
+                    "region": "default",
+                    "roman": "Sagat"
+                },
+                {
+                    "region": "japan",
+                    "roman": "Sagat",
+                    "original": "サガット"
+                }
+            ]
+        },        
+        { 
+            "regions": [
+                {
+                    "region": "default",
+                    "roman": "Edmond Honda"
+                },
+                {
+                    "region": "japan",
+                    "roman": "Edmond Honda",
+                    "original": "エドモンド本田"
+                }
+            ]
+        }        
+	]
+}

@@ -1,0 +1,22 @@
+{
+    "buttons": {
+        "Arcade": [
+            { "image": "layout.webp" },
+            { "LP": "LP" },
+            { "MP": "MP" },
+            { "HP": "HP" },
+            { "LK": "LK" },
+            { "MK": "MK" },
+            { "HK": "HK" }
+        ],
+        "Genesis": [
+            { "LP": "Y" },
+            { "MP": "X" },
+            { "HP": "L" },
+            { "LK": "B" },
+            { "MK": "A" },
+            { "HK": "R" }
+        ]
+    },
+    "hasUpgrades": false
+}
