@@ -48,7 +48,7 @@
 				"input": "{charge} :b: :f:+[P]"
 			},
 			{
-				"name": "Somersault Kick",
+				"name": "Flash Kick",
 				"input": "{charge} :d: :u:+[K]"
 			}
 		]
