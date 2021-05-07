@@ -1,9 +1,9 @@
 {
 	"names": {
-		 "default": {
+		"default": {
 			"roman": "Zangief"
 		},
-		"japan":{
+		"japan": {
 			"roman": "Zangief",
 			"original": "ザンギエフ"
 		}
@@ -15,76 +15,80 @@
 		"{normalThrows}": [
 			{
 				"name": "Piledriver",
-				"input": "{close} :b: {or} :f:+[MP]"
+				"input": "{close}, :b: {or} :f:+[MP]"
 			},
 			{
 				"name": "Brain Buster",
-				"input": "{close} :b: {or} :f:+[HP]"
+				"input": "{close}, :b: {or} :f:+[HP]"
 			},
 			{
 				"name": "Suplex",
-				"input": "{close} :b: {or} :f:+[MK]"
+				"input": "{close}, :b: {or} :f:+[MK]"
 			},
 			{
 				"name": "Powerbomb",
-				"input": "{close} :b: {or} :f:+[HK]"
+				"input": "{close}, :b: {or} :f:+[HK]"
 			},
 			{
-				"name": "Body Slam",
-				"input": "{close} :d:+[MP]"
-			},			
-			{
-				"name": "Launcher",
-				"input": "{close} :d:+[HP]"
+				"name": "Deadly Drive",
+				"input": "{close}, :d:+[MP]"
 			},
 			{
-				"name": "Face Crunch",
-				"input": "{1StepAway} :b: {or} :f:+[MP]"
+				"name": "Leg Throw",
+				"input": "{close}, :d:+[HP]"
 			},
 			{
-				"name": "Head Bite",
-				"input": "{1StepAway} :b: {or} :f:+[HP]"
+				"name": "Iron Claw",
+				"input": "{1StepAway}, :b: {or} :f:+[MP]"
 			},
 			{
-				"name": "Stomach Crunch",
-				"input": "{1StepAway} :d:+[MP]"
+				"name": "Bite",
+				"input": "{1StepAway}, :b: {or} :f:+[HP]"
+			},
+			{
+				"name": "Stomach Claw",
+				"input": "{1StepAway}, :d:+[MP]"
 			}
 		],
 		"{uniqueAttacks}": [
 			{
 				"name": "Double Knee Drop",
-				"input": "{duringAngledJump} :d:+[LK]"
+				"input": "{duringAngledJump}, :d:+[LK]"
 			},
 			{
 				"name": "Flying Body Press",
-				"input": "{duringAngledJump} :d:+[HP]"
+				"input": "{duringAngledJump}, :d:+[HP]"
 			},
 			{
-				"name": "Flying Head Butt",
-				"input": "{duringVerticalJump} :u:+[MP] {or} [HP]"
+				"name": "Head Butt",
+				"input": "{duringVerticalJump}, :u:+[MP] {or} [HP]"
 			}
 		],
 		"{specialMoves}": [
 			{
 				"name": "Double Lariat",
-				"input": "[LP]+[MP]+[HP] ({use} :b: {or} :f: {toMove})"
+				"input": "{press} [LP]+[MP]+[HP] ({use} :b: {or} :f: {toMove})"
 			},
 			{
 				"name": "Quick Double Lariat",
-				"input": "[LK]+[MK]+[HK] ({use} :b: {or} :f: {toMove})"
+				"input": "{press} [LK]+[MK]+[HK] ({use} :b: {or} :f: {toMove})"
 			},
 			{
 				"name": "Spinning Piledriver",
-				"input": "{close} :360:+[P]"
+				"input": "{close}, :360:+[P]"
 			}
 		]
 	},
 	"custom_strings": {
 		"english": [
-			{ "1StepAway": "one step away from the opponent"}
+			{
+				"1StepAway": "one step away from the opponent"
+			}
 		],
 		"portuguese": [
-			{ "1StepAway": "a um passo de distância do oponente"}
+			{
+				"1StepAway": "a um passo de distância do oponente"
+			}
 		]
 	}
 }
